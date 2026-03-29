@@ -1,7 +1,8 @@
 # proof
 
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue)
-![Surface](https://img.shields.io/badge/surface-proof%20publication-111111)
+![Role](https://img.shields.io/badge/role-proof%20publication%20surface-111111)
+![Deploy](https://github.com/Verifrax/proof/actions/workflows/pages.yml/badge.svg?branch=main)
 ![Host](https://img.shields.io/badge/host-proof.verifrax.net-1f6feb)
 
 Public proof-publication repository for `https://proof.verifrax.net/`, responsible for publishing inspectable proof material and certificate-facing retrieval surfaces without becoming the verifier, authority issuer, governed execution runtime, intake surface, archive surface, documentation root, or evidence-root chain authority.
