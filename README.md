@@ -40,6 +40,8 @@ It exists so a reader can:
 
 This repository owns publication only.
 
+Publication is not verification. Publication is not authority. Publication is not execution. Publication is not archive truth.
+
 That means the correct system split is:
 
 * authority comes from `AUCTORISEAL`
