@@ -7,6 +7,11 @@
 
 Public proof-publication repository for `https://proof.verifrax.net/`, responsible for publishing inspectable proof material and certificate-facing retrieval surfaces without becoming the verifier, authority issuer, governed execution runtime, intake surface, archive surface, documentation root, or evidence-root chain authority.
 
+## Terminal planes
+
+- **[ANAGNORIUM](https://github.com/Verifrax/ANAGNORIUM)** — terminal recognition
+- **[REGRESSORIUM](https://github.com/Verifrax/REGRESSORIUM)** — terminal recourse
+
 ## Status
 
 * Repository role: public proof publication surface only
@@ -380,3 +385,10 @@ Do not introduce:
 ## License
 
 Apache License Version 2.0. See `LICENSE`.
+
+## Adjacent sovereign surfaces
+
+This repository is part of the Verifrax sovereign stack and remains bounded relative to:
+
+- **[ANAGNORIUM](https://github.com/Verifrax/ANAGNORIUM)** for terminal recognition
+- **[REGRESSORIUM](https://github.com/Verifrax/REGRESSORIUM)** for terminal recourse
