@@ -8,12 +8,14 @@
   "deployMode": "static-root",
   "adjacentHosts": {
     "Root": "https://www.verifrax.net",
-    "Verify": "https://verify.verifrax.net",
     "Docs": "https://docs.verifrax.net",
-    "Status": "https://status.verifrax.net",
+    "Verify": "https://verify.verifrax.net",
+    "Apply": "https://apply.verifrax.net",
+    "Execution": "https://api.verifrax.net",
     "Authority": "https://auctoriseal.verifrax.net",
     "Runtime": "https://corpiform.verifrax.net",
-    "Execution": "https://api.verifrax.net",
-    "Archive": "https://sigillarium.verifrax.net"
+    "Enforcement": "https://cicullis.verifrax.net",
+    "Archive": "https://sigillarium.verifrax.net",
+    "Status": "https://status.verifrax.net"
   }
 }
